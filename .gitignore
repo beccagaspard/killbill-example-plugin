@@ -1,0 +1,13 @@
+.project
+.idea/
+.gradle/
+bin/
+build/
+.settings
+.classpath
+*.iml
+target
+**/dependency-reduced-pom.xml
+*.class
+*.log
+/.gradletasknamecache
